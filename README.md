@@ -1,5 +1,5 @@
 ![NPM Issues](https://img.shields.io/github/issues/prabhu1122/Ball_Collision_Detection)
-![NPM Downloads](https://img.shields.io/github/downloads/prabhu1122/Ball_Collision_Detection)
+![NPM Downloads](https://img.shields.io/github/dw/prabhu1122/Ball_Collision_Detection)
 
 
 # Ball_Collision_Detection
