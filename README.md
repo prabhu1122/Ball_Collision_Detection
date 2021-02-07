@@ -6,9 +6,9 @@
 
 # Ball_Collision_Detection
 ## Table of contents
-*[General Info](#general-info)
-*[Technologies](#technologies)
-*[How to get](#how-to-get)
+* [General Info](#general-info)
+* [Technologies](#technologies)
+* [How to get](#how-to-get)
 
 ## General info
 This project is performe the `Collision detection` of ball.
