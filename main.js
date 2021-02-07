@@ -1,6 +1,4 @@
 //
-import 
-
 var canvas = document.querySelector('canvas');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
@@ -89,7 +87,6 @@ function Circle(x, y, r) {
             return false;
         }
     };
-
     //collision resolving
     //Utility functions
     /**
@@ -169,7 +166,7 @@ function distanceCheck(x1, y1, x2, y2, r1, r2) {
     }
 }
 
-circle = [];        //create a ball array
+circle = []; //create a ball array
 radius = [];
 var no_Of_Ball = 40;
 var rad = 16;
@@ -187,7 +184,7 @@ for (var i = 0; i < no_Of_Ball; i++) {
                 rad = rad;
                 x = getRandom(rad, innerWidth - rad);
                 y = getRandom(rad, innerHeight - rad);
-                j = -1;           //call same loop till the new ball got no overlap
+                j = -1; //call same loop till the new ball got no overlap
             }
         }
     }
@@ -214,8 +211,8 @@ function animate() {
             }
         }
         //for each circles
-        circle[i].draw();      //draw function
-        circle[i].update();    //update function
+        circle[i].draw(); //draw function
+        circle[i].update(); //update function
     }
 }
 //call the animate function to perform all
