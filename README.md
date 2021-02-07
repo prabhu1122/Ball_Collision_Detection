@@ -1,7 +1,6 @@
 ![NPM Issues](https://img.shields.io/github/issues/prabhu1122/Ball_Collision_Detection)
 ![NPM Stars](https://img.shields.io/github/stars/prabhu1122/Ball_Collision_Detection)
 ![NPM Forks](https://img.shields.io/github/forks/prabhu1122/Ball_Collision_Detection)
-![NPM Twitter](https://img.shields.io/twitter/url?url=http%3A%2F%2Ftwitter.com%2FPrabhat84684469)
 ![NPM Github](https://img.shields.io/github/followers/prabhu1122?color=orange&logo=github&logoColor=black&style=plastic)
 ![NPM Twitter](https://img.shields.io/twitter/follow/Prabhat84684469?color=yellow&logo=twitter&style=plastic)
 # Ball_Collision_Detection
