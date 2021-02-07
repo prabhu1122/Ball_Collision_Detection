@@ -17,6 +17,7 @@ This project is performe the `Collision detection` of ball.
 This project is created with:
 * `html`
 * `js`
+* `p5js library`
 
 ## How to get
 To get this project just download this repo and run on any html supported IDE like `spck` on android plateform.
